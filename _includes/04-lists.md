@@ -1,5 +1,3 @@
-:heart:
-:+1:
-:smile:
-:sparkles:
-:tada: 
+- George Washington
+- John Adams
+- Thomas Jefferson
